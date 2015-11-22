@@ -1,0 +1,17 @@
+{
+  "name": "ein",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Jory Burson <jory@bocoup>",
+  "description": "ein the office dog joins bocoup's slack channel in bot form",
+  "dependencies": {
+    "hubot-appearin": "^1.0.2",
+    "hubot-calculator": "^0.4.0",
+    "hubot-google": "^0.1.2",
+    "hubot-slack": "^3.4.2",
+    "hubot-xkcd": "0.0.3"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

@@ -5,6 +5,7 @@
   "author": "Jory Burson <jory@bocoup>",
   "description": "ein the office dog joins bocoup's slack channel in bot form",
   "dependencies": {
+    "hubot": "2.17.0",
     "hubot-appearin": "^1.0.2",
     "hubot-calculator": "^0.4.0",
     "hubot-diagnostics": "0.0.1",
@@ -14,6 +15,7 @@
     "hubot-help": "^0.1.2",
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-maps": "0.0.2",
+    "hubot-pearson-dictionary": "^1.0.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",

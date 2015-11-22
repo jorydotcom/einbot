@@ -15,6 +15,9 @@ module.exports = (robot) ->
 
    robot.hear /who's a good boy/, (res) ->
      res.send ":doge:"
+
+   robot.hear /you're a dog/, (res) ->
+     res.send "PANTPANTPANT"
   
   # robot.respond /open the (.*) doors/i, (res) ->
   #   doorType = res.match[1]

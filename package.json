@@ -8,6 +8,7 @@
     "hubot-appearin": "^1.0.2",
     "hubot-calculator": "^0.4.0",
     "hubot-google": "^0.1.2",
+    "hubot-heroku-keepalive": "^1.0.0",
     "hubot-slack": "^3.4.2",
     "hubot-xkcd": "0.0.3"
   },

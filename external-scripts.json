@@ -13,5 +13,6 @@
   "hubot-calculator",
   "hubot-xkcd",
   "hubot-google",
-  "hubot-pearson-dictionary"
+  "hubot-pearson-dictionary",
+  "hubot-alias"
 ]

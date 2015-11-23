@@ -6,7 +6,6 @@
   "description": "ein the office dog joins bocoup's slack channel in bot form",
   "dependencies": {
     "hubot": "2.17.0",
-    "hubot-alias": "^0.1.7",
     "hubot-appearin": "^1.0.2",
     "hubot-calculator": "^0.4.0",
     "hubot-diagnostics": "0.0.1",
